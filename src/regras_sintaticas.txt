@@ -9,8 +9,7 @@ Vt = id, num, + , - , * , /
 2. T ->  id | num
 3. OP ->  + | - | * | /
 
-
-* precisamos reescrever a regra 1, transformando-a em
+*precisamos reescrever a regra 1, transformando em
 
 1a.  E  ->  T E'
 1b.  E' -> OP T E' | &
